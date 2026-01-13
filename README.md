@@ -1,96 +1,97 @@
-# Hi, I'm Saffin 👋  
+<h1 align="center">Hi 👋, I'm Saffin</h1>
+<h3 align="center">Computer Science Engineering Student | Builder of Real-World Projects</h3>
 
-🎓 Computer Science Engineering student  
-💡 Interested in Web Development, IoT, and Applied AI  
-🛠️ Love building practical, real-world projects  
-📸 Photography | 🎮 Gaming | 🧩 Problem Solving  
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **React, Tailwind CSS, and Machine Learning**
-- 🧠 Enjoy working on **full-stack systems and embedded projects**
-- 🛡️ Interested in **Cybersecurity & CTF challenges**
-- 🤝 Strong team player with experience in hackathons and innovation programs
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmozRich&label=Profile%20views&color=0e75b6&style=flat" alt="AmozRich" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-### 💻 Programming
-- Python  
-- C  
-- Java (basics)
+- 🎓 CSE student passionate about **building useful systems**
+- 💡 Interested in **Web Development, IoT, and Applied AI**
+- 🛠️ Love converting ideas into **working prototypes**
+- 🛡️ Exploring **Cybersecurity & CTFs**
+- 📸 Photography | 🎮 Gaming | 🧩 Problem Solving
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript (basic)  
-- Node.js  
-- Express.js  
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge)
+
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
 ### 🗄️ Database
-- MongoDB (Atlas)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### 🤖 Hardware & IoT
-- Arduino Uno  
-- ESP32  
-- MPU6050 (IMU)  
-- GPS (NEO-6M / NEO-7M)  
-- Ultrasonic Sensors  
-
-### 🧠 Tools & Design
+### 🤖 Hardware & Tools
+- Arduino Uno, ESP32  
+- MPU6050, GPS (NEO-6M / NEO-7M)  
 - Git & GitHub  
-- Postman  
-- Figma  
-- Canva  
-- Tinkercad  
-- Wokwi  
+- Postman, Figma, Canva  
+- Tinkercad, Wokwi  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 Project Connect
 **Role-based Student Project Management System**
 
 - Student → Faculty → HOD approval workflow  
-- JWT authentication & role-based dashboards  
-- Backend: Node.js + Express + MongoDB  
+- JWT Authentication & role-based dashboards  
+- Backend: Node.js, Express, MongoDB  
 - Frontend: HTML, CSS, JavaScript  
 
-🔗 *Repository link here*
+🔗  Repository: [*Repo link here*](https://github.com/AmozRich/project-connect)
 
 ---
 
 ### 🔹 SafeTurnAR+
-**Low-cost Driver Assistance System (ADAS Prototype)**
+**Low-Cost Driver Assistance System (ADAS Prototype)**
 
 - Curve detection using IMU + GPS  
 - Camera-based road analysis  
-- Real-time alerts and overlays  
-- Designed for offline & low-cost environments  
+- Real-time alerts & overlays  
+- Designed for offline usage  
 
-🔗 *Repository link here*
+🔗 Repository: *(currently private)*
 
 ---
 
 ### 🔹 CTF Competition Website
-- Built a complete Capture-the-Flag event site  
-- Focus on usability and clean UI  
-- Pure HTML, CSS, JavaScript  
+- Complete Capture-the-Flag event platform  
+- Clean UI with pure HTML, CSS & JS  
 
-🔗 *Repository link here*
+🔗 Repository: https://github.com/AmozRich/CTF
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Achievements
 
-- 🎯 Selected project at **Useless Project Hackathon – TinkerHub**
+- 🥇 Selected Project – **Useless Project Hackathon (TinkerHub)**
 - 🎓 Student Coordinator – **Young Innovators Programme (YIP 7.0)**
 - 🎨 Creative & Innovation Lead – **IEDC**
-- 🧪 NPTEL: *Python for Data Science* – **79%**
+- 📜 NPTEL – *Python for Data Science* (79%)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmozRich&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmozRich&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
