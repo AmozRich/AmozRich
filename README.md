@@ -96,9 +96,9 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: yourmail@example.com  
+- GitHub: [https://github.com/your-username  ](https://github.com/AmozRich)
+- LinkedIn: www.linkedin.com/in/saffin-m-varughese  
+- Email: saffinvaughese@example.com  
 
 ---
 
